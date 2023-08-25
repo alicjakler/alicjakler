@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I am looking for a position as a junior software developer. I am currently completing a 16 weeks intensive coding bootcamp with HyperionDev in the hopes of securing a full-time python software development role. It is a fast paced course, both challenging and exciting for me to learn and apply new techniques to problems. I look forward to starting my professional coding career and applying the skills I have learned to real world problems and tasks. In particular my python and sql database knowledge would help me in those tasks.
+ 🔭 I am looking for a position as a junior software developer. I have completed a 16-week intensive coding bootcamp with HyperionDev in the hopes of securing a full-time Python software development role. It is a fast-paced course, both challenging and exciting for me to learn and apply new techniques to problems. I look forward to starting my professional coding career and applying the skills I have learned to real-world problems and tasks. In particular, my Python and SQL database knowledge would help me in those tasks.
 
-🌱 Some of the skills I am learning on the boot camp are:
+🌱 Some of the skills I am learning in the boot camp are:
 - Software development in Python
 - SQL Database
 - Object-oriented programming
-- Using data science libraries to develop data driven web applications
+- Using data science libraries to develop data-driven web applications
 - Natural language processing
 - Systems analysis
 - Systems Design
