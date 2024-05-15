@@ -12,8 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I am looking for a position as a junior software developer. I have completed a 16-week intensive coding bootcamp with HyperionDev in the hopes of securing a full-time Python software development role. It is a fast-paced course, both challenging and exciting for me to learn and apply new techniques to problems. I look forward to starting my professional coding career and applying the skills I have learned to real-world problems and tasks. In particular, my Python and SQL database knowledge would help me in those tasks.
-
+ 🔭 Dedicated to continuous learning and personal development, I possess a profound interest in
+software development and Information technology, sparked by my experience in office management
+operations. Recognizing the transformative role of technology in elevating customer experiences has
+propelled my enthusiasm for the technology industry.
+Driven by the boundless possibilities that technology offers, I actively seek opportunities to enhance
+my expertise in software development and general IT. My recent immersion in a programming
+Bootcamp has provided me with a comprehensive understanding of programming concepts, fueling
+my eagerness to apply this knowledge to real-world software development projects.
+Backed by a robust programming foundation and a genuine passion for technology, I am confident in
+my ability to excel in this dynamic field. Excited to delve into various facets of software development,
+I am poised to leverage my skills and knowledge to craft innovative and impactful solutions.
+Currently enrolled in an IT Support Technical Skills helpdesk Bootcamp, I am proactively bridging
+knowledge gaps. This comprehensive course covers key skills such as Active Directory, Azure
+management, Desktop management, and Office 365 Administration, further enhancing my
+capabilities in the IT domain.
+ 
 🌱 Some of the skills I am learning in the boot camp are:
 - Software development in Python
 - SQL Database
@@ -27,6 +41,6 @@ Here are some ideas to get you started:
 - Source version control
 - Backend web development
 
-⚡I have come from working in the front of house and security sector, working in fast paced and ever changing situations. I have a great thirst for knowledge and often find myself desire for more when working. I would love to apply my problem solving and quick thinking to the world of computer science. I believe my strong communication and team working skills will be a great asset to the company and team that I work in. 
+⚡I have come from working in the front of house/office management working in fast paced and ever changing situations. I have a great thirst for knowledge and often find myself desire for more when working. I would love to apply my problem solving and quick thinking to the world of computer science. I believe my strong communication and team working skills will be a great asset to the company and team that I work in. 
 
 📫 How to reach me: www.linkedin.com/in/alicjakler
